@@ -1,4 +1,5 @@
 {
   "version": 1,
-  "bundleUrl": "https://elaborate-daffodil-698e47.netlify.app/index.android.bundle"
+  "bundleUrlAndroid": "https://elaborate-daffodil-698e47.netlify.app/index.android.bundle",
+  "bundleUrlIos": "https://elaborate-daffodil-698e47.netlify.app/index.ios.bundle"
 }
