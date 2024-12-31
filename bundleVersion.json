@@ -1,12 +1,17 @@
 {
-  "ANDROID_VERSION_DEV": 1,
-  "ANDROID_VERSION_STAGING": 1,
-  "ANDROID_VERSION_PROD": 1,
+  "ANDROID_VERSION_DEV": 2,
+  "ANDROID_VERSION_STAGING": 2,
+  "ANDROID_VERSION_PROD": 2,
 
-  "IOS_VERSION_DEV": 8,
-  "IOS_VERSION_STAGING": 1,
-  "IOS_VERSION_PROD": 1,
+  "IOS_VERSION_DEV": 9,
+  "IOS_VERSION_STAGING": 2,
+  "IOS_VERSION_PROD": 4,
 
-  "bundleUrlAndroid": "https://elaborate-daffodil-698e47.netlify.app/index.android.bundle",
-  "bundleUrlIos": "https://elaborate-daffodil-698e47.netlify.app/index.ios.bundle"
+  "BUNDLE_URL_ANDROID_DEV": "https://elaborate-daffodil-698e47.netlify.app/index-dev.android.bundle",
+  "BUNDLE_URL_ANDROID_STAGING": "https://elaborate-daffodil-698e47.netlify.app/index-staging.android.bundle",
+  "BUNDLE_URL_ANDROID_PROD": "https://elaborate-daffodil-698e47.netlify.app/index-prod.android.bundle",
+
+  "BUNDLE_URL_IOS_DEV": "https://elaborate-daffodil-698e47.netlify.app/index-dev.ios.bundle",
+  "BUNDLE_URL_IOS_STAGING": "https://elaborate-daffodil-698e47.netlify.app/index-staging.ios.bundle",
+  "BUNDLE_URL_IOS_PROD": "https://elaborate-daffodil-698e47.netlify.app/index-prod.ios.bundle"
 }
