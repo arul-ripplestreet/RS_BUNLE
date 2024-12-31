@@ -1,5 +1,13 @@
 {
   "version": 1,
+
+  "ANDROID_VERSION_DEV": 1,
+  "ANDROID_VERSION_STAGING": 1,
+  "ANDROID_VERSION_PROD": 1,
+  "IOS_VERSION_DEV": 1,
+  "IOS_VERSION_STAGING": 1,
+  "IOS_VERSION_PROD": 1,
+
   "bundleUrlAndroid": "https://elaborate-daffodil-698e47.netlify.app/index.android.bundle",
   "bundleUrlIos": "https://elaborate-daffodil-698e47.netlify.app/index.ios.bundle"
 }
