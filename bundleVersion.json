@@ -2,7 +2,7 @@
   "ANDROID_VERSION_DEV": 2,
   "ANDROID_VERSION_STAGING": 2,
   "ANDROID_VERSION_PROD": 2,
-  "IOS_VERSION_DEV": 16,
+  "IOS_VERSION_DEV": 14,
   "IOS_VERSION_STAGING": 2,
   "IOS_VERSION_PROD": 4,
   "BUNDLE_URL_ANDROID_DEV": "https://elaborate-daffodil-698e47.netlify.app/index-dev.android.bundle",
